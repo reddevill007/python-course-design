@@ -53,6 +53,10 @@ nav.nav .btns {
   gap: 20px;
 }
 
+nav.nav .btns a:nth-child(2) {
+  background: #8d4aa2;
+}
+
 nav.nav .btns a {
   background-color: #ceb2d3;
   padding: 5px 10px;
